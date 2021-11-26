@@ -71,44 +71,44 @@
 
 // *****************************************************Решение*************************************************************
 
-let rightAnswersCount = 0
-let userAnswer 
+// let rightAnswersCount = 0
+// let userAnswer 
 
 
-userAnswer = prompt("Как называется южнокорейский фильм, который получил 4 оскара в 2020 году")
+// userAnswer = prompt("Как называется южнокорейский фильм, который получил 4 оскара в 2020 году")
 
-if (userAnswer.toLowerCase() === "паразиты") {
-  alert("Правильно")
-  rightAnswersCount++
-} else {
-  alert("Не правильно")
-}
+// if (userAnswer.toLowerCase() === "паразиты") {
+//   alert("Правильно")
+//   rightAnswersCount++
+// } else {
+//   alert("Не правильно")
+// }
 
-userAnswer = prompt("Ночь, улица, фонарь ....")
+// userAnswer = prompt("Ночь, улица, фонарь ....")
 
-if (userAnswer.toLowerCase() === "аптека") {
-  alert("Правильно")
-  rightAnswersCount++
-} else {
-  alert("Не правильно")
-}
+// if (userAnswer.toLowerCase() === "аптека") {
+//   alert("Правильно")
+//   rightAnswersCount++
+// } else {
+//   alert("Не правильно")
+// }
 
-userAnswer = prompt("Инфекционное заболевание (COVID-19)")
+// userAnswer = prompt("Инфекционное заболевание (COVID-19)")
 
-if (userAnswer.toLowerCase() === "коронавирус") {
-  alert("Правильно")
-  rightAnswersCount++
-} else {
-  alert("Не правильно")
-}
+// if (userAnswer.toLowerCase() === "коронавирус") {
+//   alert("Правильно")
+//   rightAnswersCount++
+// } else {
+//   alert("Не правильно")
+// }
 
-userAnswer = prompt("Хотите один балл за просто так? Да или нет?")
+// userAnswer = prompt("Хотите один балл за просто так? Да или нет?")
 
-if (userAnswer.toLowerCase() === "да") {
-  alert("Ай хитрюга")
-  rightAnswersCount++
-} else {
-  alert("Ну и не очень-то и хотелось")
-}
+// if (userAnswer.toLowerCase() === "да") {
+//   alert("Ай хитрюга")
+//   rightAnswersCount++
+// } else {
+//   alert("Ну и не очень-то и хотелось")
+// }
 
-alert(`У меня очень плохо с фантазией в 4 утра. Количество правильных ответов: ${rightAnswersCount}`)
+// alert(`У меня очень плохо с фантазией в 4 утра. Количество правильных ответов: ${rightAnswersCount}`)
