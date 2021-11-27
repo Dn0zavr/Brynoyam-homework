@@ -94,20 +94,20 @@
 
 /********************************** Решение ***************************************/
 
-const matrix = [
-    [1, 3, 2],
-    [4, 7, 6],
-    [2, 4, 1]
-  ]
+// const matrix = [
+//     [1, 3, 2],
+//     [4, 7, 6],
+//     [2, 4, 1]
+//   ]
   
-console.log(matrix);
+// console.log(matrix);
 
-let summ = 0
-let num = 0
+// let summ = 0
+// let num = 0
 
-for (let i = 0; i < matrix.length; i++) {
-    let num = matrix[i][i] 
-    summ = summ + num    
-}
+// for (let i = 0; i < matrix.length; i++) {
+//     let num = matrix[i][i] 
+//     summ = summ + num    
+// }
 
-console.log("Сумма элементов по диагонали: " + summ);
+// console.log("Сумма элементов по диагонали: " + summ);
